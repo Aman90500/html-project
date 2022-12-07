@@ -1,0 +1,114 @@
+<html>
+<head>
+
+<title>AMAN MOR </title><Marquee><h1> AMAN MOR Learning HTML </h1></marquee>
+
+<h1><center> Using and practing tags.<hr></center></h1>
+
+<body>
+
+<table>
+
+<tr>
+<td>Name:</td>
+<td><input type="text"placeholder="Full Name"></td>
+</tr>
+
+<tr>
+<td>Father's Name:</td>
+<td><input type="text"placeholder="Full Name"></td>
+</tr>
+
+
+<tr>
+<td>Mothers's Name:</td>
+<td><input type="text"placeholder="Full name"></td>
+</tr>
+
+<tr>
+<td>D.O.B</td>
+<td><input type="datetime-local"placeholder="dd/mm/yyyy"></td>
+</tr>
+
+<tr>
+<td>Qualification's</td>
+<td><input type="text"placeholder="10th,12th,graduate"></td>
+</tr>
+
+<tr>
+<td>City:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>State:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Region:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Age:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Mobile no.:</td>
+<td><input text="text"placeholder="1023456789"</td>
+</tr>
+
+
+<tr>
+<td>Id:</td>
+<td><input type="text"></td>
+</tr>
+
+
+<tr>
+<td>Password:</td>
+<td><input type="password"placeholder="abc123"></td>
+</tr>
+
+<tr>
+<td>submit:<input type="button"submit"></td>
+<td>Reset<input type="button"></td>
+</tr>
+
+
+<tr>
+<td>Feedback:</td>
+<td><input text="text"placeholder="Your Feedback"</td>
+</tr>
+
+<br><br>
+<tr>
+
+<td>
+Gender:
+Male:<input type="radio"name="gender" value"male">
+Female:<input type="radio"name="gender" value"female">
+</td>
+</tr>
+
+<tr>
+<td>
+Final Submit : <input type="Button" value="Click to Check"
+onclick="alert('Your form is successfully submit')">
+</td>
+</tr>
+
+
+<tr>
+<td>
+<br><br>Choose your color <input type="color">
+</td>
+</tr>
+
+</body>
+
+
+</head>
+</html>
